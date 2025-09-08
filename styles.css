@@ -1,21 +1,21 @@
 body  {
     color:antiquewhite;
-    background-color: aquamarine;
+    background-color: rgb(244, 121, 6);
     margin: 0px;
     font-family: "char";
     margin-bottom: 100px;
 }
 
 header { 
-    border-bottom: solid 2px rgb( 42, 122, 228);
+    border-bottom: solid 2px rgb(255, 213, 0);
 padding: 20px;
 font-size: 32px;
-color: rgb( 42, 122, 228);
+color: rgb(116, 228, 42);
 
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(221, 193, 10);
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
