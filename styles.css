@@ -2,15 +2,15 @@ body  {
     color:antiquewhite;
     background-color: rgb(244, 121, 6);
     margin: 0px;
-    font-family: "char";
+    font-family: "inter" sans-serif;
     margin-bottom: 100px;
 }
 
 header { 
-    border-bottom: solid 2px rgb(255, 213, 0);
-padding: 20px;
-font-size: 32px;
-color: rgb(39, 240, 12);
+ border-bottom: solid 2px rgb(255, 213, 0);
+ padding: 20px;
+ font-size: 32px;
+ color: rgb(39, 240, 12);
 
 }
 
@@ -47,7 +47,7 @@ p {
 }
 .categoria-videos img {
     opacity: 0.5;
-    border: 3px solid rgb(4, 149, 30);
+    border: 200px;
 }
 
 .categoria-videos img:hover {
